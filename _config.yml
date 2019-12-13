@@ -34,45 +34,34 @@ youtube_username                          : e-yantra
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : ATmega2560 and ESP32 based development board
+  - title                                 : 8 sensor eyes (​QRE1113​)
     description                           : 
-    fontawesome_icon_name                 : microchip
+    fontawesome_icon_name                 : star
     
-  - title                                 : 12.5 W of Output Power
-    description                           : 
-    fontawesome_icon_name                 : plug
-
-  - title                                 : Wi-Fi compatible
-    description                           : 
-    fontawesome_icon_name                 : wifi
-
-  - title                                 : Bluetooth Low Energy
+  - title                                 : I2C​ interface
     description                           : 
     fontawesome_icon_name                 : star
 
-  - title                                 : Over-The-Air Update
+  - title                                 : Adjust IR brightness on the fly with a knob
     description                           : 
-    fontawesome_icon_name                 : cloud
+    fontawesome_icon_name                 : star
+
+  - title                                 : Switch IR on and off with software
+    description                           : 
+    fontawesome_icon_name                 : star
+
+  - title                                 : Switch visual indicators on and off with software
+    description                           : 
+    fontawesome_icon_name                 : star
   
-  - title                                 : Compatible with FreeRTOS
+  - title                                 : Invert dark/light sight with software
     description                           : 
     fontawesome_icon_name                 : star
 
-  - title                                 : Arduino Programming Language Compatible
+  - title                                 : Based on the ​MCP23017 I/O Expander​
     description                           : 
-    fontawesome_icon_name                 : code
+    fontawesome_icon_name                 : star
 
-  - title                                 : On-Board File Storage
-    description                           : 
-    fontawesome_icon_name                 : save
-
-  - title                                 : Awesome Support
-    description                           : 
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
