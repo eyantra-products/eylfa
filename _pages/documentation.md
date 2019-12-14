@@ -28,7 +28,7 @@ include_in_header: true
 ## eY-LFA Hookup Guide <a name="hw-man"></a>
 
 #### Latest (v0.1)
-<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0o-c0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/5ies8vkjld4b63aps0i9p2r608q25tlb/1576245600000/01066791640500494942/*/1O9sJx1AyYtwuBL2MiajC-ekWp0cHHENk?e=download" target="_self" style="color: #ffffff">Download</a></button>
+<button class="btn"><i class="fa fa-download"></i> <a href="https://doc-0o-7k-docs.googleusercontent.com/docs/securesc/fqgcdr6ulugrpmd1h6sntksfs24tagdn/07ltrr7ml77hl7mllf67qft5gvqd30j0/1576296000000/01066791640500494942/01066791640500494942/1O9sJx1AyYtwuBL2MiajC-ekWp0cHHENk?e=download" target="_self" style="color: #ffffff">Download</a></button>
 
 <button class="btn"><i class="fa fa-book"></i> <a href="https://drive.google.com/file/d/1O9sJx1AyYtwuBL2MiajC-ekWp0cHHENk/view" target="_self" style="color: #ffffff">View</a></button>
 
